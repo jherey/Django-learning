@@ -27,8 +27,8 @@ SECRET_KEY = '+ycvox2o-bxvw7s@k%sh0z#kfim8@sq+*#e9o*36%=@^*yx*(i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+# ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'jherey.pythonanywhere.com' ]
 
 # Application definition
 
